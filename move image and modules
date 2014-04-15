@@ -1,2 +1,2 @@
-cp arch/arm/boot/zImage ../m7eu_4.1/packages/zImage
-find . -name "*.ko" -exec cp {} ../m7eu_4.1/packages \;
+cp arch/arm/boot/zImage ../m7_4.1/packages/zImage
+find . -name "*.ko" -exec cp {} ../m7_4.1/packages \;
